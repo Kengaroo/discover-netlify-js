@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+* Lien vers le site déployé sur Netlify : https://charming-jelly-f6d280.netlify.app/
